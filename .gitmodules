@@ -28,6 +28,11 @@
 	url = https://github.com/petrbouchal/pragr
 	shallow = true
 	registered = true
+[submodule "CzechData"]
+	path = CzechData
+	url = https://github.com/JanCaha/CzechData
+	shallow = true
+	registered = false
 [submodule "rvest"]
 	path = rvest
 	url = https://github.com/tidyverse/rvest
