@@ -3,3 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "czso"]
+	path = czso
+	url = https://github.com/petrbouchal/czso
+	shallow = true
+[submodule "statnipokladna"]
+	path = statnipokladna
+	url = https://github.com/petrbouchal/statnipokladna
+	shallow = true
