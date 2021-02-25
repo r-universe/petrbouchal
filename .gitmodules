@@ -23,3 +23,8 @@
 	url = https://github.com/petrbouchal/purrrow
 	shallow = true
 	registered = true
+[submodule "rvest"]
+	path = rvest
+	url = https://github.com/tidyverse/rvest
+	shallow = true
+	registered = false
