@@ -8,8 +8,10 @@
 	url = https://github.com/petrbouchal/czso
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "statnipokladna"]
 	path = statnipokladna
 	url = https://github.com/petrbouchal/statnipokladna
 	shallow = true
 	registered = true
+	oncran = true
