@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/petrbouchal/universe
 	shallow = true
 	branch = HEAD
 [submodule "czso"]
@@ -11,5 +11,15 @@
 [submodule "statnipokladna"]
 	path = statnipokladna
 	url = https://github.com/petrbouchal/statnipokladna
+	shallow = true
+	registered = true
+[submodule "vsezved"]
+	path = vsezved
+	url = https://github.com/petrbouchal/vsezved
+	shallow = true
+	registered = true
+[submodule "purrrow"]
+	path = purrrow
+	url = https://github.com/petrbouchal/purrrow
 	shallow = true
 	registered = true
