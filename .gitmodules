@@ -23,6 +23,11 @@
 	url = https://github.com/petrbouchal/purrrow
 	shallow = true
 	registered = true
+[submodule "pragr"]
+	path = pragr
+	url = https://github.com/petrbouchal/pragr
+	shallow = true
+	registered = true
 [submodule "rvest"]
 	path = rvest
 	url = https://github.com/tidyverse/rvest

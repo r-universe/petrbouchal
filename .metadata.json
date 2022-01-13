@@ -12,5 +12,8 @@
   },
   {
     "package": "purrrow"
+  },
+  {
+    "package": "pragr"
   }
 ]
