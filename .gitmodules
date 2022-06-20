@@ -28,6 +28,11 @@
 	url = https://github.com/petrbouchal/pragr
 	shallow = true
 	registered = true
+[submodule "ispv"]
+	path = ispv
+	url = https://github.com/petrbouchal/ispv
+	shallow = true
+	registered = true
 [submodule "CzechData"]
 	path = CzechData
 	url = https://github.com/JanCaha/CzechData
