@@ -1,45 +1,30 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/petrbouchal/petrbouchal.r-universe.dev
-	shallow = true
 	branch = HEAD
-[submodule "czso"]
-	path = czso
-	url = https://github.com/petrbouchal/czso
-	shallow = true
-	registered = true
-[submodule "statnipokladna"]
-	path = statnipokladna
-	url = https://github.com/petrbouchal/statnipokladna
-	shallow = true
-	registered = true
-[submodule "vsezved"]
-	path = vsezved
-	url = https://github.com/petrbouchal/vsezved
-	shallow = true
-	registered = true
-[submodule "purrrow"]
-	path = purrrow
-	url = https://github.com/petrbouchal/purrrow
-	shallow = true
-	registered = true
-[submodule "pragr"]
-	path = pragr
-	url = https://github.com/petrbouchal/pragr
-	shallow = true
-	registered = true
-[submodule "ispv"]
-	path = ispv
-	url = https://github.com/petrbouchal/ispv
-	shallow = true
-	registered = true
 [submodule "CzechData"]
 	path = CzechData
 	url = https://github.com/JanCaha/CzechData
-	shallow = true
 	registered = false
+[submodule "czso"]
+	path = czso
+	url = https://github.com/petrbouchal/czso
+[submodule "ispv"]
+	path = ispv
+	url = https://github.com/petrbouchal/ispv
+[submodule "pragr"]
+	path = pragr
+	url = https://github.com/petrbouchal/pragr
+[submodule "purrrow"]
+	path = purrrow
+	url = https://github.com/petrbouchal/purrrow
 [submodule "rvest"]
 	path = rvest
 	url = https://github.com/tidyverse/rvest
-	shallow = true
 	registered = false
+[submodule "statnipokladna"]
+	path = statnipokladna
+	url = https://github.com/petrbouchal/statnipokladna
+[submodule "vsezved"]
+	path = vsezved
+	url = https://github.com/petrbouchal/vsezved
