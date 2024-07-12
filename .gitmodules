@@ -18,10 +18,6 @@
 [submodule "purrrow"]
 	path = purrrow
 	url = https://github.com/petrbouchal/purrrow
-[submodule "rvest"]
-	path = rvest
-	url = https://github.com/tidyverse/rvest
-	registered = false
 [submodule "statnipokladna"]
 	path = statnipokladna
 	url = https://github.com/petrbouchal/statnipokladna

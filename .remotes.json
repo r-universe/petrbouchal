@@ -4,11 +4,5 @@
     "url": "https://github.com/JanCaha/CzechData",
     "via": ["pragr"],
     "from": "pragr"
-  },
-  {
-    "package": "rvest",
-    "url": "https://github.com/tidyverse/rvest",
-    "via": ["vsezved"],
-    "from": "vsezved"
   }
 ]
