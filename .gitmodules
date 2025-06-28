@@ -6,6 +6,9 @@
 	path = CzechData
 	url = https://github.com/JanCaha/CzechData
 	registered = false
+[submodule "cnbrrr"]
+	path = cnbrrr
+	url = https://github.com/petrbouchal/cnbrrr
 [submodule "czso"]
 	path = czso
 	url = https://github.com/petrbouchal/czso
