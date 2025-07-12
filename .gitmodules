@@ -15,6 +15,9 @@
 [submodule "ispv"]
 	path = ispv
 	url = https://github.com/petrbouchal/ispv
+[submodule "pointblankops"]
+	path = pointblankops
+	url = https://github.com/petrbouchal/pointblankops
 [submodule "pragr"]
 	path = pragr
 	url = https://github.com/petrbouchal/pragr
