@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/petrbouchal/petrbouchal.r-universe.dev
 	branch = HEAD
-[submodule "CzechData"]
-	path = CzechData
-	url = https://github.com/JanCaha/CzechData
-	registered = false
 [submodule "cnbrrr"]
 	path = cnbrrr
 	url = https://github.com/petrbouchal/cnbrrr
